@@ -5,6 +5,7 @@
 % 1/e^2 atm (13713 Pa) --> 216.6 K ~ 217K
 % 0.5 atm (50662 Pa) --> 252.4 K ~ 252K
 % 1 atm (101325 Pa) --> 288.1K ~ 288K
+%                    --> 1600K if simulating runaway greehouse
 
 % Wavenumber range : 500 cm^-1 to 11501 cm^-1
 % 500 half-widths
